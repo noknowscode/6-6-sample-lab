@@ -1,3 +1,5 @@
+> **Moved to uno-lab.** This project now lives in the `6-6-sample-lab/` folder of [noknowscode/uno-lab](https://github.com/noknowscode/uno-lab/tree/main/6-6-sample-lab) (private). This repository is archived and kept for its history.
+
 # Uno Platform 6.6 Sample Lab
 
 A single Uno Platform app (`A11yCapture`) that demonstrates eight Uno Platform 6.6 capabilities, one section each, plus the capture scripts and release assets made from it. Each section has a source panel with trimmed XAML and C# excerpts of how it works.
